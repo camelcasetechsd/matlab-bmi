@@ -1,5 +1,5 @@
 
-# Matlab BMI
+# MATLAB BMI
 BMI example using MATLAB
 
 ## Prerequisites
